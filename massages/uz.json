@@ -1,0 +1,54 @@
+{
+    "title": "Salom, dunyo!",
+    "Ruxshona Xalilova": "Ruxshona Xalilova",
+    "Services": "Xizmatlar",
+    "Technologies": "Texnologiyalar",
+    "Portfolio": "Portfolio",
+    "Contact": "Bogʻlanish",
+
+    "FRONTEND": "FRONTEND",
+  "DEVELOPER": "DASTURCHI",
+  "I am Ruxshona": "Men Ruxshonaman",
+  "web-developer ": " veb-dasturchi ",
+  "websites": "go‘zal va moslashuvchan saytlar yaratishga ishtiyoqli veb-dasturchiman.",
+  "VIEW MY WORK": "ISHLARIMNI KO‘RISH",
+
+
+  "Website Development": "Vebsayt yaratish",
+  "service": "Sizning tayyor dizayningiz asosida vebsaytlar yarataman. Bu landing page bo‘ladimi yoki vizitka sayti — har qanday qurilmada a’lo ko‘rinadi va mukammal ishlaydi.",
+  "React/Nextjs": "React / Next.js bilan ishlash",
+  "apps": "React va Next.js yordamida zamonaviy bir sahifali yoki ko‘p sahifali ilovalarni yaratish. SSR, routing, SEO va tezlikni optimallashtirish qo‘llab-quvvatlanadi.",
+  "API": "API bilan integratsiya",
+  "RESR API": "REST API, Axios, backend bilan ishlash",
+  "MY SERVICES": "XIZMATLARIM",
+
+
+  "SKILLS": "KO'NIKMALAR",
+  "use": "Men foydalanadigan ko‘nikmalar, vositalar va texnologiyalar:",
+
+
+
+  "Интернет-магазин": "Onlayn do‘kon",
+  "e-commerce": "Savatcha va filtrlarga ega moslashuvchan e-commerce sayt.",
+  "Блог-платформа": "Blog platformasi",
+  "platform": "Avtorizatsiyaga ega blog platformasi.",
+  "Landing Page": "Landing Page",
+  "website": "Brend uchun minimalistik sayt.",
+  "ToDo App": "ToDo ilovasi",
+  "My portfolio": "Mening portfoliom",
+  "portfolio": "Birinchi portfoliom",
+  "Travello": "Travello",
+  "DarkMode": "Ingliz va o‘zbek tillaridagi sayt. Shuningdek, Dark Mode funksiyasi mavjud.",
+  "Смотреть ещё": "Yana ko‘rish",
+  "Technologies:":"Texnologiyalar:",
+  "PORTFOLIO": "PORTFOLIO",
+  "Простое приложение для задач": "Oddiy vazifalar ilovasi.",
+
+   "Men bilan bog'laning": "Men bilan bog'laning.",
+
+
+   "All rights": "© 2025 — Barcha huquqlar himoyalangan. Veb-dizayn va dasturlash:"
+
+
+  }
+  
