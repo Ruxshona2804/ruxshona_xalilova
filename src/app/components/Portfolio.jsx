@@ -77,8 +77,8 @@ function Portfolio() {
   const visibleProjects = filteredProjects.slice(0, visibleCount);
 
   return (
-    <div className=" border-b-1 border-gray-600  text-white px-4">
-      <div className="container py-10  space-y-14">
+    <div className=" border-b-1 border-gray-600  text-white ">
+      <div className="container   py-10  space-y-14">
 
         <h2 className="text-center text-3xl font-bold">
           <span className="bg-gradient-to-r from-pink-500 via-purple-500 to-blue-500 text-transparent bg-clip-text">
