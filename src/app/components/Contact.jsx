@@ -13,7 +13,7 @@ const Contact = () => {
       </p>
 
 
-      <div className="w-full md:w-[50%] p-[2px] rounded-2xl bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500 shadow-lg">
+      <div className="w-full md:w-[50%] p-[2px] py-1 rounded-2xl bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500 shadow-lg">
         <div className="bg-[#0e0e1a] rounded-2xl p-6 text-white space-y-4">
           {[
             {

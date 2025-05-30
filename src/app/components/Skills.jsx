@@ -38,9 +38,7 @@ const Skills = () => {
                 alt={`Tech-${index}`}
                 width={50}
                 height={50}
-                className={`hover:scale-110  w-[80px] h-full  transition-transform duration-300 m-2 ${
-                  tech === nextjs ? 'bg-gray-400 px-2 py-1 rounded' : ''
-                }`}
+                className={`hover:scale-110  w-[70px]   transition-transform duration-300 m-2 `}
               />
             ))}
           </div>

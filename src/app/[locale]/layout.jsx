@@ -1,14 +1,14 @@
 import "@/styles/globals.css";
 
-import {  Volkhov } from 'next/font/google'
+import {  Inter } from 'next/font/google'
 import { NextIntlClientProvider } from "next-intl";
 
 
-const volkov = Volkhov({
+const volkov = Inter({
   subsets:['latin'],
   weight:["400","700"],
   display:'swap',
-  variable:'-font-volkov'
+  variable:'-font-inter'
 })
 
 export default async function RootLayout({ children, params }) {

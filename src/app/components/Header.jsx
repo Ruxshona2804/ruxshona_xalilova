@@ -8,7 +8,7 @@ const Header = () => {
     const t = useTranslations();
     return (
       <div className='border-b border-gray-600'>
-      <div className=" container  flex flex-col-reverse md:flex-row md:h-[700px] items-center justify-between md:gap-20 text-white px-4 md:px-0 py-10">
+      <div className=" container  flex flex-col-reverse md:flex-row md:h-[700px] items-center justify-between md:gap-24  text-white px-4 md:px-0 py-10">
         
        
         <div className="md:w-[50%] text-center md:text-left">
