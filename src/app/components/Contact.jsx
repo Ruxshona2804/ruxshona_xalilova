@@ -1,6 +1,8 @@
 import React from 'react';
 import { FaGithub, FaLinkedin, FaTelegramPlane, FaEnvelope } from 'react-icons/fa';
 import { useTranslations } from 'next-intl';
+import Image from 'next/image';
+
 
 const Contact = () => {
   const t = useTranslations();

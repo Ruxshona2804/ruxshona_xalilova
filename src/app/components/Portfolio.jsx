@@ -33,9 +33,9 @@ const allProjects = [
     title: "Landing Page",
     image: noventer,
     description: "website",
-    tech: ['HTML', 'CSS', 'JavaScript'],
-    github: 'https://github.com/Ruxshona2804/list-products.git',
-    demo: 'https://noventer-f3v8.vercel.app/',
+    tech: ['Next', 'Tailwind', 'TypeScript'],
+    github: 'https://github.com/Ruxshona2804/Noventer-in-next.git',
+    demo: 'https://noventer-nextt.vercel.app/',
   },
   {
     title: "ToDo App",
@@ -63,7 +63,7 @@ const allProjects = [
   },
 ];
 
-const techList = ['Все', 'React', 'Next.js', 'JavaScript', 'HTML', 'CSS', 'Tailwind', 'i18n', 'DarkMode'];
+const techList = ['Все','TypeScript', 'React', 'Next', 'JavaScript', 'HTML', 'CSS', 'Tailwind', 'i18n', 'DarkMode'];
 
 function Portfolio() {
   const t = useTranslations();
